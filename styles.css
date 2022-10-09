@@ -1,0 +1,19 @@
+body{
+    background: #4abdac;
+    color: aliceblue;
+
+    
+}
+
+footer{
+    font-style: italic;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top: 160px;
+    
+}
+main{
+    display: flex;
+    justify-content: center;
+}
